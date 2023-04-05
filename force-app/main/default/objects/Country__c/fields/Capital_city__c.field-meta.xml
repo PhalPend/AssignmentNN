@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Capital_city__c</fullName>
+    <description>This field is mapped to Capital city Code from the API response of https://countrylayer.com/</description>
+    <externalId>false</externalId>
+    <label>Capital City</label>
+    <length>55</length>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
